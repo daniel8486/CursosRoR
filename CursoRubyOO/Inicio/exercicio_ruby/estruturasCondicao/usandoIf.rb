@@ -46,5 +46,6 @@ if nota == 0
   else
   	puts "opcao invalida"
   end
+  
   	
 
